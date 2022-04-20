@@ -1,5 +1,5 @@
-<h1 align="center">Hello world, I'm <a href="https://t.me/ioannvs" target="_blank">Ivan (John)</a> <img
-src="https://github.com/IoannVS/IoannVS/blob/main/icons/Hi.gif" height="32" /></h1>
+<h1 align="center">Hello world, I'm <a href="https://t.me/ioannvs" target="_blank">Ivan (John)</a> <a href="https://t.me/ioannvs"> <img
+src="https://github.com/IoannVS/IoannVS/blob/main/icons/Hi.gif" height="32" /> </a> </h1>
 <h3 align="center">Learn Java & Kotlin for mobile development</h3>
 
 
