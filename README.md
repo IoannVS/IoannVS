@@ -34,6 +34,7 @@ src="https://github.com/IoannVS/IoannVS/blob/main/icons/Hi.gif" height="32" /></
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://github.com/IoannVS/IoannVS/blob/main/icons/tools/intellij-idea-1.svg" alt="IntelliJ IDEA" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/IoannVS/IoannVS/blob/main/icons/tools/PyCharm.svg" alt="Git" width="40" height="40"/> </a>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/IoannVS/IoannVS/blob/main/icons/tools/logo-android.svg" alt="Android" width="40" height="40"/> </a>
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://github.com/IoannVS/IoannVS/blob/main/icons/tools/android-studio.svg" alt="Android Studio" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IoannVS/IoannVS/blob/main/icons/tools/git.svg" alt="Git" width="40" height="40"/> </a>
 <a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IoannVS/IoannVS/blob/main/icons/tools/gitkraken.svg" alt="GitKraken" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/IoannVS/IoannVS/blob/main/icons/tools/linux.svg" alt="Linux" width="40" height="40"/> </a>
@@ -42,7 +43,9 @@ src="https://github.com/IoannVS/IoannVS/blob/main/icons/Hi.gif" height="32" /></
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://github.com/IoannVS/IoannVS/blob/main/icons/tools/adobe-photoshop-2.svg" alt="Photoshop" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://github.com/IoannVS/IoannVS/blob/main/icons/tools/adobe-illustrator-cc-icon.svg" alt="Illustrator" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/audition.html" target="_blank" rel="noreferrer"> <img src="https://github.com/IoannVS/IoannVS/blob/main/icons/tools/adobe-audition-cc-icon-2020-.svg" alt="Audition" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/ru/products/photoshop-lightroom.html" target="_blank" rel="noreferrer"> <img src="https://github.com/IoannVS/IoannVS/blob/main/icons/tools/adobe-photoshop-lightroom-cc-icon.svg" alt="Lightroom" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank" rel="noreferrer"> <img src="https://github.com/IoannVS/IoannVS/blob/main/icons/tools/adobe-photoshop-lightroom-cc-icon.svg" alt="Lightroom" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://github.com/IoannVS/IoannVS/blob/main/icons/tools/adobe-after-effects.svg" alt="After Effects" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/products/media-encoder.html" target="_blank" rel="noreferrer"> <img src="https://github.com/IoannVS/IoannVS/blob/main/icons/tools/media-encoder.svg" alt="Media Encoder" width="40" height="40"/> </a>
 </p>
 
 <div id="header_2" align="left">
