@@ -50,6 +50,6 @@ src="https://github.com/IoannVS/IoannVS/blob/main/icons/Hi.gif" height="32" /> <
 </p>
 
 <div id="header_2" align="left">
-  <img src="https://www.codewars.com/users/IoannVS/badges/small" alt=""/> 
+  <a href="https://www.codewars.com/" target="blank" rel="noreferrer"> <img src="https://www.codewars.com/users/IoannVS/badges/small" alt=""/> 
   <img src="https://gpvc.arturio.dev/IoannVS" alt=""/>
 </div>
