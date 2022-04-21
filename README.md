@@ -11,7 +11,7 @@ src="https://github.com/IoannVS/IoannVS/blob/main/icons/Hi.gif" height="32" /> <
 
 - 🌍 I speak Russian (native), English (B2)
 
-- ⚡ Fun fact: ask me about it :)
+- ⚡ Fun fact: <a href="https://t.me/ioannvs" target="blank">ask me</a> about it :)
 
 ### Connect with me:
 <p align="left">
