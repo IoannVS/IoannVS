@@ -24,6 +24,7 @@
 ### Languages:
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/IoannVS/IoannVS/blob/main/icons/languages/Java.svg" alt="Java" width="40" height="40"/> </a>
+  <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262" target="_blank" rel="noreferrer"> <img src="https://github.com/IoannVS/IoannVS/blob/main/icons/languages/JavaScript.svg" alt="JavaScript" width="40" height="40"/> </a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/IoannVS/IoannVS/blob/main/icons/languages/Kotlin.svg" alt="Kotlin" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/IoannVS/IoannVS/blob/main/icons/languages/Python.svg" alt="Python" width="40" height="40"/> </a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html/" target="_blank" rel="noreferrer"> <img src="https://github.com/IoannVS/IoannVS/blob/main/icons/languages/CSS.svg" alt="CSS 3" width="40" height="40"/> </a> 
