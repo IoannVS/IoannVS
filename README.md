@@ -4,7 +4,7 @@
 <h3 align="center">Always learn something new</h3>
 
 
-- 🌱 I’m currently learning **java & etc.**
+- 🌱 I’m currently working with **java** language
 
 - 📫 How to reach me: **ioannvs@gmail.com**
 
